@@ -2,8 +2,7 @@
 using namespace std;
 
 //creating function
-int power() 
-{
+int power() {
     int a, b;
     cout << "Enter a & b: ";
     cin>> a >> b;
