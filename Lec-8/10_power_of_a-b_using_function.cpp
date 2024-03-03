@@ -29,7 +29,7 @@ int main() {
     cout << "pow(a,b) is: " << answer_4 << endl;
 
     // In this way we can use that the fuction power as many times as we want
-    // Remember that the variable to which you are initailizing should be different in every use of function(e.g., answer, answer_2, answer_3....)
+    // Remember that the variable to which you are initailizing the return of fuction should be different in every use of function(e.g., answer, answer_2, answer_3....)
     // And how concised and readable the code is, unlike (8_Power_of_a-b)
 }
 
