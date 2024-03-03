@@ -1,3 +1,4 @@
+//We can solve that question using if-else statements too
 #include<iostream>
 using namespace std;
 
