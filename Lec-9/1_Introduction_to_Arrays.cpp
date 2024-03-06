@@ -11,7 +11,7 @@ int main() {
 
     cout << "value at loc: 9 -->"<< myArray[9] << endl;//output: 0
 
-// output is gonna be 0 in this case beacuse in C++ array start from 0. So, if you have an array int myArray[10] = {0};, it initializes all elements to "0" by default
+// Output is gonna be 0 in this case beacuse in C++ array start from 0. So, if you have an array int myArray[10] = {0};, it initializes all elements to "0" by default
 
 
 
