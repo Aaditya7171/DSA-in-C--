@@ -21,7 +21,7 @@ int main() {
     cout << "value at loc: 1 -->" << tryArray[1] << endl;//0
     cout << "value at loc: 2 -->" << tryArray[2] << endl;//0
     cout << "value at loc: 3 -->" << tryArray[3] << endl;//0
-//here only the first value of array is initialized with 1(location-0) and rest are 1(by default)
+//here only the first value of array is initialized with 1(location-0) and rest are 0(by default)
 
 // Homework-1: Write a C++ program to initialize an entire array of size 20 with the value 1 -->
 //declaration of Array of size 20
